@@ -29,7 +29,7 @@ Adapt methods based on dataset type (numeric, categorical, text, time-series).
 
 🎯 **Who Is This For?**
 
-Data Analysts
-Data Scientists
-Machine Learning Engineers
-Anyone working with messy datasets
+- Data Analysts
+- Data Scientists
+- Machine Learning Engineers
+- Anyone working with messy datasets
